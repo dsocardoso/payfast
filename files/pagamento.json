@@ -1,0 +1,26 @@
+{
+    "pagamento":{
+        "forma_de_pagamento":"cartao",
+        "valor": 98.53,
+        "moeda": "USD",
+        "descricao": "compra teste"
+    },
+    "cartao":{
+        "numero":1234123412341234,
+        "bandeira": "elo",
+        "ano_de_expiracao": 2016,
+        "mes_de_expiracao": 12,
+        "cvv": 123
+    }
+}
+
+/*
+{
+	"pagamento":{
+		"forma_de_pagamento": "payfast",
+		"valor": 60.00,
+		"moeda": "BRL",
+		"descricao": "testando a inclusao de um pagamento"
+	}
+}
+*/
